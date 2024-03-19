@@ -6,21 +6,21 @@ Este repositório contém um script em Python para calcular as médias das notas
 
 ## Usage / Uso
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine / 
    Clone o repositório para sua máquina local:
 
    ```
    git clone https://github.com/your-username/student-grades-calculator.git
    ```
 
-2. Navigate to the repository directory:
+2. Navigate to the repository directory / 
    Navegue até o diretório do repositório:
 
    ```
    cd student-grades-calculator
    ```
 
-3. Run the Python script:
+3. Run the Python script / 
    Execute o script Python:
 
    ```
