@@ -13,21 +13,14 @@ Este repositório contém um script em Python para calcular as médias das notas
    git clone https://github.com/your-username/student-grades-calculator.git
    ```
 
-2. Navigate to the repository directory / 
-   Navegue até o diretório do repositório:
-
-   ```
-   cd student-grades-calculator
-   ```
-
-3. Run the Python script / 
+2. Run the Python script / 
    Execute o script Python:
 
    ```
-   python grades_calculator.py
+   python main.py
    ```
 
-4. Follow the prompts to input the grades for each student in each class.
+3. Follow the prompts to input the grades for each student in each class.
    Siga as instruções para inserir as notas de cada aluno em cada turma.
 
 ## How it Works / Como Funciona
